@@ -1,0 +1,3 @@
+# gitjenkins
+
+print "Hello Git"
